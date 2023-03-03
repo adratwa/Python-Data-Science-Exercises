@@ -1,1 +1,1 @@
-# Pytgon-Data-Science-Exercises
+# Python-Data-Science-Exercises
